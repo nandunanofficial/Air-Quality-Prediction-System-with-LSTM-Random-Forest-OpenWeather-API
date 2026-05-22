@@ -6,6 +6,8 @@ import time
 import logging
 from pathlib import Path
 
+#Hello this a sample comment
+
 class GitHubAQICollector:
     def __init__(self):
         # Setup logging
